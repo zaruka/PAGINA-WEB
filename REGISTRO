@@ -1,0 +1,62 @@
+<html>
+<heard>
+<title>facci</title>
+</head>
+<body><font color="#00ff00"><backgroynd="C:\we1\facci">
+<center><marquee><b><big><h1>FACCI</h1></big></b></marquee></center>
+<img scr="facci.jpg">
+<br>
+
+<br>
+
+	</heard>
+	
+		<body background="C:\we1\Fondos-11.gif">
+
+	</body>
+		<center><img scr="facci.jpg"></center>
+<center><marquee><h1><font color="blue">Sistema De Registros De Empleados</marquee></h1></center>
+		<center><table border="px1"bordercolor="purper" bgcolor="pink"><font color="blue"></td></center>
+		<tr>
+		<td><font color="#800080"><big><b>Nombre<input type="text"/></td></big></b><td><input type="text"/>
+		<td><input type="text"/>
+		<td><input type="text"/>
+		<tr>
+		<td><font color="#800080"><big><b>Apellido<input type="text"/></td></big></b><td><input type="text"/>
+		<td><input type="text"/>
+		<td><input type="text"/>
+		</tr>
+		<tr>
+		<td><font color="#800080"><big><b>Cedula<input type="text"/></td></big></b><td><input type="text"/>
+		<td><input type="text"/>
+		<td><input type="text"/>
+		</tr>
+		<tr>
+		<td><font color="#800080"><big><b>Telefono<input type="text"/></td></big></b><td><input type="text"/>
+		<td><input type="text"/>
+		<td><input type="text"/>
+		</tr>
+		<tr>
+		<td><font color="#800080"><big><b>Ruc<input type="text"/></td></big></b><td><input type="text"/></td></td></td><td><input type="text>
+		<td><input type="text"/></td>
+		<td><input type="text"/>
+		</tr>
+<center>
+		<input type="button" font color="#800080" value="registro del personal" type="submit" onclick="cargar()"/>
+		<input type="button" value="asignar tarea" onclick="cargar()"/>
+		<input type="button" value="Rol de pago " onclick="cargar()"/>
+		<input type="button" value="Area de desempeño" onclick="cargar()"/>
+		</table>
+		<div id="contenedor">
+		</table>
+		<div id="contenedor">
+		</div>
+</center>
+<center><input type="button" value="insertar" /><input type="button" value="modificar" /><input type="button" value="eliminar"/></center>
+<br>
+</html>
+<script>
+
+LINK 
+file:///C:/Users/zaruka/Desktop/deber%20de%20web.html
+</script>
